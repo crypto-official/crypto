@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Crypto
+Comment=Crypto P2P Cryptocurrency
+Exec=/usr/bin/crypto-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/crypto128.png
+MimeType=x-scheme-handler/bitcoin;
+Categories=Office;
+Name[en_US]=crypto-qt.desktop

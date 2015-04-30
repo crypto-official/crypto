@@ -1,0 +1,12 @@
+Building Crypto
+
+See doc/readme-qt.rst for instructions on building Crypto-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Crypto.
+
+See doc/build-*.txt for instructions on building cryptod,
+the intended-for-services, no-graphical-interface, reference
+implementation of Crypto.
+
+Further build information and documentation is available at
+the official Crypto website, http://http://tailflick.wix.com/official-crypto

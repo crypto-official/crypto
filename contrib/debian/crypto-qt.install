@@ -1,0 +1,6 @@
+crypto-qt usr/bin
+share/pixmaps/crypto32.xpm usr/share/pixmaps
+share/pixmaps/crypto16.xpm usr/share/pixmaps
+share/pixmaps/crypto128.png usr/share/pixmaps
+debian/crypto-qt.desktop usr/share/applications
+debian/crypto-qt.protocol usr/share/kde4/services/
